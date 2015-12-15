@@ -1,0 +1,28 @@
+name: Wolf Measure
+favicon: null
+layout_spectrum: 0.6065809677820653
+typography_spectrum: 0.8997829395812005
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.8540502351243049
+  lightness: 0.3007310947868973
+  saturation: 0.2986290107946843
+  rhythmicContrast: 0.6666477830149233
+purpose: []
