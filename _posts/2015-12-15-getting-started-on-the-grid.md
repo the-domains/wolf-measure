@@ -6,30 +6,29 @@ isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
-description: Click the pencil icon in the bottom left to read more...
-datePublished: '2015-12-15T21:36:44.347Z'
-dateModified: '2015-12-15T21:30:37.257Z'
-title: Getting Started on The Grid
+description: Just trying a few things.
+datePublished: '2015-12-15T21:41:07.658Z'
+dateModified: '2015-12-15T21:40:25.151Z'
+title: Hello World
 author: []
+sourcePath: _posts/2015-12-15-getting-started-on-the-grid.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-15-getting-started-on-the-grid.md
-published: true
 _context: 'http://schema.org'
 _type: Article
 
 ---
-# Getting Started on The Grid
+# Hello World
 
-Welcome to The Grid Beta, we're excited to have you onboard! Here are a few quick tips to get you up and running. 
+Welcome to Wolf Measure. Are you receiving me?
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b7d2f380-fc0e-4fc9-ab7e-8827f3395e59.JPG)
 
 ## Creating a Site
-
-From your drafts dashboard, click the "Drafts" dropdown menu to reveal the site switcher. Select "Add a Site" to begin the site creation process.
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ac809033602f2d9baebd/file-t8c0VXJ6mq.gif)
 
 The name you choose during site creation will also be your domain (thegrid.ai/SiteName). Choose something cool, but don't stress over it -- you can change it later.
