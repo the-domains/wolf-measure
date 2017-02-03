@@ -2,16 +2,24 @@
     <channel>
         <title><![CDATA[Wolf Measure]]></title>
         <description><![CDATA[Wolf Measure]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://wolfmeasure.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 31 May 2016 17:49:44 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 03 Feb 2017 18:21:31 GMT</lastBuildDate>
+        <atom:link href="http://wolfmeasure.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Fri, 03 Feb 2017 18:21:29 GMT</pubDate>
         <item>
-            <title><![CDATA[The Sun Rises by mountain wolf]]></title>
-            <description><![CDATA[<article><h1>The Sun Rises by mountain wolf</h1><p>Stream The Sun Rises by mountain wolf from desktop or your mobile device</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/883f85719202111d250b524cb037ef4a7e5c2f5b.png"></article>]]></description>
-            <link>https://soundcloud.com/mountainwolf/the-sun-rises</link>
-            <guid isPermaLink="false">1d8ddef3-9d4a-41ea-8463-25047114645c</guid>
-            <pubDate>Tue, 31 May 2016 17:49:42 GMT</pubDate>
+            <title><![CDATA[Videos]]></title>
+            <description><![CDATA[<h1>Videos</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0187d46f-382e-4591-b1d7-784f11b8f166.png">]]></description>
+            <link>http://wolfmeasure.com/videos/index.html</link>
+            <guid isPermaLink="false">807d3e96-992e-41ff-b27e-37df13c6148a</guid>
+            <pubDate>Tue, 17 Jan 2017 18:32:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[About Wolf Measure]]></title>
+            <description><![CDATA[<h1>About Wolf Measure</h1>,<p>Something something about me.</p>]]></description>
+            <link>http://wolfmeasure.com/about-wolf-measure/index.html</link>
+            <guid isPermaLink="false">2c627043-7dc9-44dd-b039-550b27c17664</guid>
+            <pubDate>Tue, 17 Jan 2017 18:29:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
