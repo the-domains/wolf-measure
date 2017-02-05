@@ -28,9 +28,6 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: Music
-    id: 1d8ddef3-9d4a-41ea-8463-25047114645c
-    type: content
   - name: About
     id: 2c627043-7dc9-44dd-b039-550b27c17664
     type: content
