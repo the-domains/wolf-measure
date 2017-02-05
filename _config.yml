@@ -10,6 +10,7 @@ color:
   lightness: 0.5
   saturation: 0
   rhythmicContrast: 0.5
+github: true
 opengraph:
   image: null
   type: null
@@ -36,6 +37,9 @@ navigation:
   - name: Videos
     id: 807d3e96-992e-41ff-b27e-37df13c6148a
     type: content
+  - name: Music
+    id: 8398a040-73b9-4c5e-86ce-104681071a61
+    type: content
 favicon: null
 title: Wolf Measure
 content:
@@ -47,22 +51,21 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/321bc901-6e45-40ba-8d74-d7154147b48c.jpg
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: The official website for the band Wolf Measure.
 purpose: []
-github: true
